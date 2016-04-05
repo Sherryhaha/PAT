@@ -9,7 +9,7 @@
  */
 #include<iostream>
 using namespace std;
-
+//方法一
 //int main(){
 //    long a,b,sum,i,flag;
 //    bool is_positive;
@@ -53,6 +53,7 @@ using namespace std;
 //    return 0;
 //}
 
+//方法二
 int main(){
     long a,b,sum,i,flag;
     bool is_positive;
