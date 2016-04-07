@@ -3,5 +3,5 @@ project(PAT)
 
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
 
-set(SOURCE_FILES AaddBpolynomials.cpp )
+set(SOURCE_FILES Emergency.cpp )
 add_executable(PAT ${SOURCE_FILES})
