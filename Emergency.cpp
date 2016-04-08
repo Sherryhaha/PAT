@@ -10,6 +10,7 @@
 #define MAX 1024
 using namespace std;
 
+
 int ct,pmax,predist,n,visit[MAX],dis[MAX][MAX],Teamcount[MAX];;
 
 void dfs(int p,int end,int d,int team){
