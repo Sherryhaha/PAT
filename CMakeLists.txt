@@ -3,5 +3,5 @@ project(PAT)
 
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
 
-set(SOURCE_FILES CountLeaves.cpp)
+set(SOURCE_FILES SpellitRight.cpp)
 add_executable(PAT ${SOURCE_FILES})
