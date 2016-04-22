@@ -3,5 +3,5 @@ project(PAT)
 
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
 
-set(SOURCE_FILES Elevator.cpp)
+set(SOURCE_FILES ProductofPolynomials.cpp)
 add_executable(PAT ${SOURCE_FILES})
