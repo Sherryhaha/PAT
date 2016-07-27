@@ -67,7 +67,7 @@ int main() {
     int M, N, K;
     int tmp, max, lmax;
 
-    int i, j, k;
+    int i;
     bool flag;
 
     cin >> M >> N >> K;
@@ -94,6 +94,9 @@ int main() {
                     lmax = tmp;
                 }
             }
+//            if(!flag ){
+//                break;
+//            }
         }
 
         if (flag) {
